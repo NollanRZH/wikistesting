@@ -2,7 +2,7 @@
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
-@import url("https://fonts.googleapis.com/css?family=Press Start 2P:400,400italic,700,700italic&display=swap");
+@import url("https://fonts.googleapis.com/css?family=VT323:400,400italic,700,700italic&display=swap");
 main {
   --red-0: #5aac44;
   --red-1: #4a9634;
@@ -108,7 +108,7 @@ main .gsc-loading-image {
 }
 main {
   cursor: var(--cursor-default);
-  font-family: 'Press Start 2P', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
+  font-family: 'VT323', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
 }
 a,
 button {

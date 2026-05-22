@@ -546,7 +546,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   text-size-adjust: 100%;
-  font-family: 'Press Start 2P', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
+  font-family: 'VT323', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
   transition: background 1s;
   text-autospace: normal;
   color: var(--color-default);
@@ -2109,7 +2109,7 @@ button {
 .article-entry .gist .gist-file .gist-meta {
   background: var(--highlight-background);
   color: var(--highlight-comment);
-  font: 0.85em  'Press Start 2P', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
+  font: 0.85em  'VT323', '-apple-system','PingFang SC','Microsoft YaHei','sans-serif';
   text-shadow: 0 0;
   padding: 0;
   margin-top: 1em;
