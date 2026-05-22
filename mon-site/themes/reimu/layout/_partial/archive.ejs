@@ -25,7 +25,7 @@
       <%_ } _%>
     </div>
   <%_ } _%>
-  <%_ if (page.lang) { _%>
+  <%_ if (false) { _%>
     <%_ let i = 0; _%>
     <%_ for (const post of get_posts_by_lang(page.posts, page.lang)) { _%>
       <%- partial('post', {post: post, even: i % 2 === 0}) %>
@@ -45,7 +45,7 @@
   <%_ } else { _%>
     <%- partial_lang('post/archives', null, { cache: !config.relative_link, lang: page.lang }) %>
   <%_ } _%>
-  <%_ if (page.lang) { _%>
+  <%_ if (false) { _%>
     <%_ const posts = get_posts_by_lang(page.posts, page.lang); _%>
     <%_ var last; _%>
     <%_ posts.forEach((post, i) => { _%>
