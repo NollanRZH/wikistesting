@@ -744,14 +744,14 @@ material_theme:
 
 internal_theme:
   light:
-    --red-0: "#ff0000"
-    --red-1: "#ff5252"
-    --red-2: "#ff7c7c"
-    --red-3: "#ffafaf"
-    --red-4: "#ffd0d0"
-    --red-5: "#ffecec"
-    --red-5-5: "#fff3f3"
-    --red-6: "#fff7f7"
+    --red-0: "#cc0000"
+    --red-1: "#990000"
+    --red-2: "#660000"
+    --red-3: "#330000"
+    --red-4: "#1a0000"
+    --red-5: "#0d0000"
+    --red-5-5: "#080000"
+    --red-6: "#050000"
     --color-red-6-shadow: "rgba(255, 78, 78, 0.6)"
     --color-red-3-shadow: "rgba(255, 78, 78, 0.3)"
 
