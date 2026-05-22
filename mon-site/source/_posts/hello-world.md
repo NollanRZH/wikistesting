@@ -1,38 +1,24 @@
 ---
-title: Hello World
+title: Bienvenue sur mon Wiki
+date: 2026-05-22
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# Bienvenue sur le Wiki de NollanRZH
 
-### Create a new post
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 
-``` bash
-$ hexo new "My New Post"
-```
+## Qui suis-je ?
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Run server
+## Mes projets
 
-``` bash
-$ hexo server
-```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit:
 
-More info: [Server](https://hexo.io/docs/server.html)
+- **Projet 1** — Lorem ipsum dolor sit amet
+- **Projet 2** — Consectetur adipiscing elit  
+- **Projet 3** — Sed do eiusmod tempor
 
-### Generate static files
+## Contact
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
