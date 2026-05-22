@@ -222,7 +222,7 @@ custom_font:
 font:
   enable: true
   article:
-    - Press Start 2P
+    - VT323
   code:
     # - Ubuntu Mono
     # - Source Code Pro
@@ -651,7 +651,8 @@ share:
 
 # a very simple alternative for https://hexo.io/api/injector
 injector:
-  head_begin: # Inject code snippet right after <head>
+  head_begin: |
+    <style>body, .article-entry { font-size: 18px !important; line-height: 2 !important; } h1,h2,h3 { font-size: 1.5em !important; } </style>
   head_end: # Inject code snippet right before </head>
   body_begin: # Inject code snippet right after <body>
   body_end: # Inject code snippet right before </body>
